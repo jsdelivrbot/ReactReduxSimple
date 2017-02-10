@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "typescript.tsserver.trace": "messages",
+
+  "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14
+}

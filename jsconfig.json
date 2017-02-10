@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react"
+    },
+    "typeAcquisition": {
+        "include": [
+            "react", "react-dom", "react-redux", "react-router", "redux", "lodash"
+        ]
+    },
+    "files": [
+        "src/"
+    ]
+}
